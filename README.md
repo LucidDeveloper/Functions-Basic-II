@@ -1,14 +1,12 @@
 # Functions-Basic-II
-Coding Dojo Assignment: Functions Basic II
-
-# Assignment: Functions Basic II
+* Coding Dojo Assignment: Functions
 
 # Objectives:
 * Learn how to create basic functions in Python.
 * Get comfortable using lists.
 * Get comfortable having the function return an expression/value.
 
-# Tasks
+# Tasks:
 * Countdown - Create a function that accepts a number as an input. Return a new list that counts down by one, from the number (as the 0th element) down to 0 (as the last element).
 Example: countdown(5) should return [5,4,3,2,1,0]
 
